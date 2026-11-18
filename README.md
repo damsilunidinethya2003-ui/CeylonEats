@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Student Name:** [Enter Your Name]
-- **Student ID:** [Enter Your Student ID]
+- **Student Name:** [Dinethya Damsiluni Weerathunga]
+- **Student ID:** [HS/2022/0586]
 - **Module:** Mobile Application Development
 - **Application Name:** CeylonEats
 
